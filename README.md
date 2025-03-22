@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Leon 👋
+## - 🌱 I’m currently pursuing an Associates of Science in Information Technology
+## - 💬 Reach me at leon.mui@guamcc.edu
 
 <!--
 **LeonMui/LeonMui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
